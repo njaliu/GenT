@@ -6,9 +6,6 @@ The repository is organized as follows:
 
 * README.md: this file
 * src: source code
-* src/tmp/seeds: generated test inputs
-* src/tmp/output: output of model checkers
-* src/tmp/found: inconsistencies found in the validation
 * bugs: bugs found in previous validation
 * tests: test cases
 * mc: model checkers under test (should be manually set)
